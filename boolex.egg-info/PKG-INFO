@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: boolex
+Version: 0.1
+Requires-Dist: regex==2024.9.11
+Requires-Dist: pandas==2.2.3

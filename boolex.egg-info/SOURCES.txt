@@ -1,0 +1,9 @@
+README.md
+setup.py
+boolex/__init__.py
+boolex/main.py
+boolex.egg-info/PKG-INFO
+boolex.egg-info/SOURCES.txt
+boolex.egg-info/dependency_links.txt
+boolex.egg-info/requires.txt
+boolex.egg-info/top_level.txt
